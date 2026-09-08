@@ -125,10 +125,10 @@ Here are some of the projects I'm working on:
 
 ## 📫 Connect With Me
 
-📧 **Email:** [rahuldhakad332@gmail.com](mailto:rahuldhakad332@gmail.com)
+📧 **Email:** [devops.devsecops@gmail.com](mailto:devops.devsecops@gmail.com)
 📍 **Location:** Indore, Madhya Pradesh, India
 
-💼 **LinkedIn:** Rahul Kumar Dhakad
+💼 **LinkedIn:** https://www.linkedin.com/in/devops-rahul-dhakad/
 
 ---
 
