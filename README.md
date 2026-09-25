@@ -1,61 +1,102 @@
 # 👋 Hi, I'm Rahul Kumar Dhakad
 
-### 🚀 DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD
+### 🚀 Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD | DevSecOps
 
-I'm a **DevOps Engineer** focused on building, automating, and managing **secure, scalable, and highly available cloud infrastructure on Microsoft Azure**.
+I am an **Azure DevOps Engineer with 6+ years of IT experience**, specializing in designing, automating, and managing **secure, scalable, and reliable cloud infrastructure on Microsoft Azure**.
 
-I work with **Terraform, Azure, Kubernetes, Docker, GitHub Actions, Azure DevOps, and GitOps** to automate infrastructure and application deployments.
+My core expertise includes **Terraform, Azure DevOps, Azure Kubernetes Service (AKS), Docker, Kubernetes, GitHub Actions, Jenkins, ArgoCD, Azure Landing Zones, CI/CD, GitOps, DevSecOps, and cloud monitoring**.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🔹 DevOps Engineer with **5+ years of hands-on experience**
+* ☁️ Azure DevOps Engineer with **6+ years of IT experience**
+* 🏗️ Infrastructure as Code using **Terraform, Bicep and ARM Templates**
 * ☁️ Strong experience with **Microsoft Azure**
-* 🏗️ Infrastructure as Code using **Terraform**
-* ☸️ Kubernetes & **Azure Kubernetes Service (AKS)**
-* 🐳 Containerization using **Docker**
-* 🔄 CI/CD using **GitHub Actions & Azure DevOps**
-* 🚀 GitOps using **ArgoCD**
-* 📊 Monitoring with **Azure Monitor, Prometheus & Grafana**
-* 🔐 DevSecOps using **tfsec, TFLint & Checkov**
-* 📚 Currently pursuing **AZ-104 certification**
+* 🚀 Azure Landing Zone implementation based on **Microsoft Cloud Adoption Framework**
+* ☸️ Kubernetes and **Azure Kubernetes Service (AKS)**
+* 🐳 Containerization using **Docker and Azure Container Registry**
+* 🔄 CI/CD using **Azure DevOps, GitHub Actions and Jenkins**
+* 🚀 GitOps-based deployments using **ArgoCD and Helm**
+* 🔐 DevSecOps using **tfsec, TFLint, Checkov and Azure Policy**
+* 📊 Monitoring and observability using **Azure Monitor, Prometheus and Grafana**
+* 🔑 Identity and access management using **Entra ID and Azure RBAC**
+* 🌐 Azure networking including **VNet, Subnets, NSG and Hub-Spoke topology**
+* 💻 Automation using **Bash, PowerShell and Python**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### ☁️ Cloud
+### ☁️ Microsoft Azure
 
-`Microsoft Azure` `Entra ID` `RBAC` `Azure VM` `VNet` `NSG` `ACR` `AKS` `Key Vault` `Storage`
+`Azure` `Entra ID` `IAM` `RBAC` `IaaS` `PaaS` `SaaS`
+
+`Management Groups` `Azure Landing Zone` `Azure VM` `VNet` `Subnet`
+
+`NSG` `Azure Policy` `Key Vault` `Azure Container Registry`
+
+---
 
 ### 🏗️ Infrastructure as Code
 
-`Terraform` `Terraform Modules` `Terraform Cloud` `Remote State` `Workspaces`
+`Terraform` `Terraform Modules` `Bicep` `ARM Templates`
+
+`Remote State` `Infrastructure Automation`
+
+---
 
 ### 🔄 CI/CD & DevOps
 
-`GitHub Actions` `Azure DevOps` `Azure Pipelines` `Azure Repos`
+`Azure DevOps` `Azure Pipelines` `GitHub Actions` `Jenkins`
+
+`CI/CD` `GitOps` `Continuous Delivery`
+
+---
 
 ### 🐳 Containers & Kubernetes
 
-`Docker` `Kubernetes` `AKS` `Helm` `Azure Container Registry`
+`Docker` `Kubernetes` `AKS`
+
+`Azure Container Registry` `Helm`
+
+`HPA` `Cluster Autoscaler`
+
+---
 
 ### 🚀 GitOps
 
-`ArgoCD` `GitOps`
+`ArgoCD` `GitOps` `Helm`
+
+---
 
 ### 🔐 DevSecOps
 
-`tfsec` `TFLint` `Checkov` `SAST` `Policy as Code`
+`tfsec` `TFLint` `Checkov`
+
+`SAST` `DAST` `Azure Policy` `Policy as Code`
+
+---
 
 ### 📊 Monitoring & Observability
 
-`Azure Monitor` `Application Insights` `Log Analytics` `Prometheus` `Grafana`
+`Azure Monitor`
+
+`Application Insights`
+
+`Log Analytics`
+
+`Prometheus`
+
+`Grafana`
+
+---
 
 ### 💻 Scripting
 
 `Bash` `PowerShell` `Python`
+
+---
 
 ### 🔀 Version Control
 
@@ -63,78 +104,270 @@ I work with **Terraform, Azure, Kubernetes, Docker, GitHub Actions, Azure DevOps
 
 ---
 
-## 🚀 Featured Project
+### 🌐 Networking
 
-### Production-Grade Azure DevOps Pipeline with Terraform & AKS
+`Azure VNet` `Subnets` `NSG`
 
-Designed and implemented a production-grade DevOps pipeline for a **microservices application on Microsoft Azure**.
-
-**Architecture:**
-
-`GitHub → GitHub Actions → Docker → ACR → Terraform → AKS → ArgoCD → Prometheus/Grafana`
-
-### 🔧 Key Components
-
-* Terraform modules for **AKS, ACR, VNet, Key Vault, Storage & NSG**
-* GitHub Actions CI/CD pipeline
-* Docker containerization
-* Azure Container Registry
-* Kubernetes deployment on AKS
-* Helm-based deployments
-* ArgoCD GitOps
-* Prometheus & Grafana monitoring
-* Multi-environment deployment strategy
-
-### 🏆 Results
-
-* ⚡ **60% faster deployment** — 45 min → 18 min
-* 🏗️ **70% reduction in infrastructure provisioning time**
-* 🟢 **99.9% uptime**
-* 💰 **30% Azure cost savings** through autoscaling & rightsizing
+`Hub-Spoke Topology`
 
 ---
 
-## 📌 What I'm Currently Learning
+## 🚀 Professional Experience
 
-* Advanced Terraform
-* Azure Cloud Architecture
-* Kubernetes & AKS
-* GitOps with ArgoCD
-* DevSecOps
-* Azure Landing Zones
-* Cloud Networking
-* CI/CD Pipeline Optimization
+### Azure DevOps Engineer — Webtouch Software Development Pvt. Ltd.
+
+**Aug 2022 – Present**
+
+* Architected and implemented **Azure Landing Zones** based on Microsoft Cloud Adoption Framework.
+* Designed secure, scalable and governed Azure cloud foundations.
+* Developed reusable **Terraform modules** for infrastructure automation.
+* Automated provisioning of **AKS, VNets, ACR and Key Vault**.
+* Designed and optimized end-to-end **CI/CD pipelines** using Azure DevOps, Azure Pipelines, Jenkins and GitHub Actions.
+* Reduced deployment time and manual errors through pipeline automation and optimization.
+* Managed containerized workloads on **AKS** using Kubernetes, Helm and ArgoCD.
+* Implemented **GitOps-based continuous delivery**.
+* Integrated **DevSecOps security controls** into CI/CD pipelines.
+* Implemented SAST, DAST, tfsec and policy-as-code practices.
+* Configured **AKS Horizontal Pod Autoscaler and Cluster Autoscaler**.
+* Implemented blue-green deployment strategies for highly available applications.
+* Established monitoring and observability using **Prometheus, Grafana and Azure Monitor**.
+* Managed cloud identity and access using **Microsoft Entra ID and Azure IAM**.
+
+---
+
+## 📈 Key Achievements
+
+### ⚡ Faster Application Deployment
+
+Reduced application deployment time by **60%**, from approximately **50 minutes to 20 minutes**, through CI/CD pipeline parallelization and workflow optimization.
+
+### 🏗️ Infrastructure Automation
+
+Reduced infrastructure provisioning time by **65%** by developing modular and reusable Terraform architectures.
+
+### 🟢 High Availability
+
+Maintained **99.9% uptime** for production workloads using rolling updates and blue-green deployment strategies.
+
+---
+
+## 🏗️ DevOps Architecture
+
+```text
+                    ┌─────────────────┐
+                    │   Developer     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │ Git / GitHub    │
+                    │ Azure Repos     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                ┌─────────────────────────┐
+                │      CI/CD Pipeline     │
+                │ Azure DevOps / GitHub   │
+                │ Actions / Jenkins       │
+                └────────────┬────────────┘
+                             │
+              ┌──────────────┴──────────────┐
+              │                             │
+              ▼                             ▼
+       ┌──────────────┐             ┌──────────────┐
+       │  Terraform   │             │    Docker    │
+       │     IaC      │             │  Container   │
+       └──────┬───────┘             └──────┬───────┘
+              │                            │
+              ▼                            ▼
+       ┌──────────────┐             ┌──────────────┐
+       │ Azure Cloud  │             │     ACR      │
+       │ Landing Zone │             │   Registry   │
+       └──────┬───────┘             └──────┬───────┘
+              │                            │
+              └──────────────┬─────────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │       AKS       │
+                    │   Kubernetes    │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     ArgoCD      │
+                    │     GitOps      │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │ Monitoring &    │
+                    │ Observability    │
+                    │                 │
+                    │ Azure Monitor   │
+                    │ Prometheus      │
+                    │ Grafana         │
+                    └─────────────────┘
+```
+
+---
+
+## ☁️ Azure Landing Zone
+
+I have experience designing and implementing Azure Landing Zones based on the **Microsoft Cloud Adoption Framework**.
+
+Key areas include:
+
+* Management Groups
+* Azure Subscriptions
+* Resource Groups
+* Identity & Access Management
+* Azure RBAC
+* Azure Policy
+* Networking
+* Security
+* Governance
+* Monitoring
+* Infrastructure Automation
+
+---
+
+## 🏗️ Terraform
+
+My Terraform experience includes:
+
+* Reusable Terraform modules
+* Modular infrastructure architecture
+* Azure resource provisioning
+* AKS deployment
+* VNet and networking automation
+* ACR provisioning
+* Key Vault provisioning
+* Remote state management
+* Infrastructure standardization
+* Infrastructure automation
+
+---
+
+## ☸️ Kubernetes & AKS
+
+Experience with:
+
+* Kubernetes
+* Azure Kubernetes Service
+* Helm
+* ArgoCD
+* Horizontal Pod Autoscaler
+* Cluster Autoscaler
+* Rolling Updates
+* Blue-Green Deployments
+* Containerized application deployments
+
+---
+
+## 🔐 DevSecOps
+
+Security is integrated into the DevOps lifecycle using:
+
+```text
+Developer
+    ↓
+Git
+    ↓
+CI/CD Pipeline
+    ↓
+Security Scanning
+    ├── tfsec
+    ├── TFLint
+    ├── Checkov
+    ├── SAST
+    └── DAST
+    ↓
+Terraform / Application Deployment
+    ↓
+Azure
+```
+
+---
+
+## 📊 Monitoring & Observability
+
+I work with monitoring and observability tools including:
+
+* Azure Monitor
+* Application Insights
+* Log Analytics
+* Prometheus
+* Grafana
+
+These tools help with **metrics, logs, monitoring, alerting and troubleshooting**.
+
+---
+
+## 📚 DevOps Insider
+
+### Jul 2021 – Jul 2022
+
+Gained hands-on exposure to:
+
+* DevOps fundamentals
+* CI/CD
+* Version Control
+* Cloud Infrastructure
+* Bash
+* PowerShell
+* Automation
+* Infrastructure Management
+
+---
+
+## 🎓 Education
+
+### B.Sc. Computer Science
+
+**Jiwaji University, Gwalior**
+
+Passed: **2019**
 
 ---
 
 ## 📂 GitHub Projects
 
-Here are some of the projects I'm working on:
+Some of the areas covered in my projects:
 
 * 🔹 Azure Infrastructure using Terraform
-* 🔹 Terraform Reusable Modules
-* 🔹 Azure AKS Deployment
-* 🔹 GitHub Actions CI/CD Pipelines
-* 🔹 Docker & Kubernetes Projects
-* 🔹 Helm Charts
-* 🔹 ArgoCD GitOps
+* 🔹 Reusable Terraform Modules
+* 🔹 Azure Landing Zone
+* 🔹 AKS Deployment
 * 🔹 Azure Networking
+* 🔹 Azure DevOps CI/CD Pipelines
+* 🔹 GitHub Actions
+* 🔹 Docker & Kubernetes
+* 🔹 Helm
+* 🔹 ArgoCD GitOps
 * 🔹 DevSecOps with Terraform
+* 🔹 Azure Monitoring
+* 🔹 Prometheus & Grafana
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** [devops.devsecops@gmail.com](mailto:devops.devsecops@gmail.com)
+📧 **Email:** [Dhakad.devsecops@gmail.com](mailto:Dhakad.devsecops@gmail.com)
+
 📍 **Location:** Indore, Madhya Pradesh, India
 
-💼 **LinkedIn:** https://www.linkedin.com/in/devops-rahul-dhakad/
+💼 **LinkedIn:** [Rahul Kumar Dhakad](https://www.linkedin.com/in/devops-rahul-dhakad/)
 
 ---
 
-### ⚡ DevOps Mindset
+## ⚡ DevOps Mindset
 
-> **Automate Everything • Infrastructure as Code • Continuous Delivery • Monitor Everything • Improve Continuously**
+> **Automate Everything • Infrastructure as Code • Continuous Delivery • Secure Everything • Monitor Everything • Improve Continuously**
 
-⭐ Feel free to explore my repositories and connect with me!
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+Feel free to explore my repositories and connect with me.
+
 
