@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Rahul Kumar Dhakad - DevOps Engineer Portfolio">
+  <title>Rahul Kumar Dhakad | DevOps Engineer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="navbar">
+    <a class="logo" href="#home">&lt;Rahul<span>/&gt;</span></a>
+    <button class="menu-btn" id="menuBtn" aria-label="Open menu">☰</button>
+    <nav id="nav">
+      <a href="#home">Home</a>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#experience">Experience</a>
+      <a href="#projects">Projects</a>
+      <a href="#education">Education</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <button class="theme-btn" id="themeBtn" aria-label="Toggle theme">☾</button>
+  </header>
+
+  <main>
+    <section id="home" class="hero">
+      <div class="hero-content">
+        <p class="eyebrow">HELLO, I'M</p>
+        <h1>Rahul Kumar<br><span>Dhakad</span></h1>
+        <h2>DevOps Engineer</h2>
+        <p class="hero-text">
+          Azure Cloud • Terraform • Kubernetes • Docker • CI/CD • GitOps
+        </p>
+        <p class="hero-description">
+          I build secure, scalable and highly available cloud infrastructure
+          and automate application delivery using modern DevOps practices.
+        </p>
+        <div class="buttons">
+          <a class="btn primary" href="#projects">View Projects</a>
+          <a class="btn secondary" href="#contact">Contact Me</a>
+        </div>
+        <div class="socials">
+          <a href="https://github.com/" target="_blank" rel="noopener">GitHub ↗</a>
+          <a href="https://www.linkedin.com/" target="_blank" rel="noopener">LinkedIn ↗</a>
+          <a href="mailto:rahuldhakad332@gmail.com">Email ↗</a>
+        </div>
+      </div>
+
+      <div class="terminal-card">
+        <div class="terminal-top"><span></span><span></span><span></span></div>
+        <div class="terminal-body">
+          <p><span class="green">$</span> whoami</p>
+          <p class="output">rahul-dhakad</p>
+          <p><span class="green">$</span> role</p>
+          <p class="output">DevOps Engineer</p>
+          <p><span class="green">$</span> cloud</p>
+          <p class="output">Microsoft Azure</p>
+          <p><span class="green">$</span> iac</p>
+          <p class="output">Terraform</p>
+          <p><span class="green">$</span> kubernetes</p>
+          <p class="output">AKS</p>
+          <p><span class="green">$</span> status</p>
+          <p class="output">Ready to automate_</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">ABOUT ME</p>
+        <h2>Building infrastructure that <span>just works.</span></h2>
+      </div>
+      <div class="about-grid">
+        <div class="about-text">
+          <p>
+            I'm a DevOps Engineer with hands-on experience in designing,
+            automating and managing cloud infrastructure on Microsoft Azure.
+          </p>
+          <p>
+            My core focus is Infrastructure as Code, CI/CD automation,
+            containerization, Kubernetes and GitOps. I enjoy turning manual
+            processes into reliable, repeatable automation.
+          </p>
+          <div class="quick-stats">
+            <div><strong>5+</strong><small>Years Experience</small></div>
+            <div><strong>99.9%</strong><small>Uptime</small></div>
+            <div><strong>70%</strong><small>Faster Provisioning</small></div>
+          </div>
+        </div>
+        <div class="about-card">
+          <div class="code-line"><span>const</span> engineer = {</div>
+          <div class="code-line indent">name: <b>"Rahul Dhakad"</b>,</div>
+          <div class="code-line indent">cloud: <b>"Azure"</b>,</div>
+          <div class="code-line indent">iac: <b>"Terraform"</b>,</div>
+          <div class="code-line indent">orchestration: <b>"Kubernetes"</b>,</div>
+          <div class="code-line indent">automation: <b>"CI/CD"</b>,</div>
+          <div class="code-line indent">mindset: <b>"Automate Everything"</b></div>
+          <div class="code-line">};</div>
+        </div>
+      </div>
+    </section>
+
+    <section id="skills" class="section alt">
+      <div class="section-heading">
+        <p class="eyebrow">TECHNICAL SKILLS</p>
+        <h2>My <span>toolbox.</span></h2>
+      </div>
+      <div class="skills-grid">
+        <article class="skill-card"><div class="icon">☁</div><h3>Azure</h3><p>Entra ID, RBAC, VM, VNet, NSG, ACR, AKS, Key Vault, Storage, Azure Monitor</p></article>
+        <article class="skill-card"><div class="icon">⌘</div><h3>Terraform</h3><p>Modules, Workspaces, Remote State, Azure Backend, Terraform Cloud</p></article>
+        <article class="skill-card"><div class="icon">↻</div><h3>CI/CD</h3><p>GitHub Actions, Azure DevOps, YAML workflows, reusable workflows, pipelines</p></article>
+        <article class="skill-card"><div class="icon">◈</div><h3>Kubernetes</h3><p>AKS, Helm, HPA, Cluster Autoscaler, rolling and blue-green deployments</p></article>
+        <article class="skill-card"><div class="icon">▣</div><h3>Containers</h3><p>Docker, Azure Container Registry, image versioning and tagging</p></article>
+        <article class="skill-card"><div class="icon">⛓</div><h3>GitOps</h3><p>ArgoCD, Git, GitHub, Azure Repos and branching strategies</p></article>
+        <article class="skill-card"><div class="icon">◉</div><h3>Monitoring</h3><p>Prometheus, Grafana, Azure Monitor, Application Insights, Log Analytics</p></article>
+        <article class="skill-card"><div class="icon">⌁</div><h3>DevSecOps</h3><p>tfsec, TFLint, Checkov, policy-as-code, SAST and PR gating</p></article>
+      </div>
+    </section>
+
+    <section id="experience" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">EXPERIENCE</p>
+        <h2>Where I've <span>worked.</span></h2>
+      </div>
+      <div class="timeline">
+        <article class="timeline-item">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content">
+            <p class="date">May 2022 — Present</p>
+            <h3>Junior DevOps Engineer</h3>
+            <h4>AxionConnect Pvt. Ltd. · Indore, MP</h4>
+            <p>Azure infrastructure, Terraform, CI/CD, AKS, Docker, GitHub Actions, GitOps and monitoring.</p>
+          </div>
+        </article>
+        <article class="timeline-item">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content">
+            <p class="date">Feb 2021 — Jan 2022</p>
+            <h3>Cloud Administrator</h3>
+            <h4>ATS Pvt Ltd</h4>
+            <p>Managed Azure VMs, VNets, subnets, NSGs and Azure Bastion with focus on availability, security and performance.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="projects" class="section alt">
+      <div class="section-heading">
+        <p class="eyebrow">FEATURED PROJECT</p>
+        <h2>Things I've <span>built.</span></h2>
+      </div>
+      <article class="project-main">
+        <div class="project-info">
+          <p class="project-tag">AZURE · TERRAFORM · AKS · GITHUB ACTIONS</p>
+          <h3>Production-Grade Azure DevOps Pipeline</h3>
+          <p>
+            Designed and implemented a production-grade DevOps pipeline for a
+            microservices application on Azure, automating infrastructure
+            provisioning, containerization, deployment and monitoring.
+          </p>
+          <div class="project-list">
+            <span>Terraform Modules</span><span>AKS</span><span>ACR</span><span>Helm</span>
+            <span>ArgoCD</span><span>Prometheus</span><span>Grafana</span>
+          </div>
+          <a class="text-link" href="https://github.com/" target="_blank" rel="noopener">View on GitHub →</a>
+        </div>
+        <div class="pipeline">
+          <div>CODE</div><b>→</b><div>BUILD</div><b>→</b><div>DOCKER</div><b>→</b><div>ACR</div>
+          <div class="break">↓</div>
+          <div>ARGOCD</div><b>←</b><div>AKS</div><b>←</b><div>TERRAFORM</div>
+        </div>
+      </article>
+
+      <div class="project-cards">
+        <article class="mini-project"><span>01</span><h3>Azure Infrastructure with Terraform</h3><p>Reusable modules for Resource Groups, VNet, NSG, Storage and cloud resources.</p></article>
+        <article class="mini-project"><span>02</span><h3>AKS & Helm Deployment</h3><p>Containerized workloads deployed to AKS using standardized Helm charts.</p></article>
+        <article class="mini-project"><span>03</span><h3>GitOps with ArgoCD</h3><p>Automated Kubernetes delivery by synchronizing application state from Git.</p></article>
+      </div>
+    </section>
+
+    <section id="achievements" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">IMPACT</p>
+        <h2>Results that <span>matter.</span></h2>
+      </div>
+      <div class="achievement-grid">
+        <div><strong>60%</strong><span>faster deployment</span><small>45 min → 18 min</small></div>
+        <div><strong>70%</strong><span>less provisioning time</span><small>through Terraform</small></div>
+        <div><strong>99.9%</strong><span>uptime</span><small>zero-downtime releases</small></div>
+        <div><strong>30%</strong><span>Azure cost savings</span><small>autoscaling & rightsizing</small></div>
+      </div>
+    </section>
+
+    <section id="education" class="section alt">
+      <div class="section-heading">
+        <p class="eyebrow">EDUCATION</p>
+        <h2>My <span>foundation.</span></h2>
+      </div>
+      <div class="education-card">
+        <div>
+          <p class="date">2017</p>
+          <h3>Bachelor of Science – Information Technology</h3>
+          <p>Jiwaji University, Gwalior, Madhya Pradesh</p>
+        </div>
+        <div class="education-badge">BSc IT</div>
+      </div>
+    </section>
+
+    <section id="contact" class="section contact-section">
+      <div class="section-heading">
+        <p class="eyebrow">GET IN TOUCH</p>
+        <h2>Let's build something <span>great.</span></h2>
+        <p>Open to DevOps, Cloud, Azure, Terraform and Kubernetes opportunities.</p>
+      </div>
+      <div class="contact-grid">
+        <a href="mailto:rahuldhakad332@gmail.com" class="contact-card"><span>✉</span><div><small>Email</small><strong>rahuldhakad332@gmail.com</strong></div></a>
+        <a href="tel:+918819969332" class="contact-card"><span>☎</span><div><small>Phone</small><strong>+91 88199 69332</strong></div></a>
+        <a href="https://www.linkedin.com/" target="_blank" rel="noopener" class="contact-card"><span>in</span><div><small>LinkedIn</small><strong>Rahul Kumar Dhakad</strong></div></a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© <span id="year"></span> Rahul Kumar Dhakad. Built with ☁ + Terraform + Kubernetes.</p>
+    <a href="#home">Back to top ↑</a>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
